@@ -150,7 +150,7 @@ El sistema soporta los cuatro tipos principales de comprobantes fiscales electr√
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/dgii-system.git
+git clone https://github.com/joeliranzo/dgii-system.git
 cd dgii-system
 
 # Instalar dependencias del backend
